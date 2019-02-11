@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaizoon.pomodoro-timer.org/sitemap.xml
